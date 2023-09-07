@@ -1,0 +1,23 @@
+---
+title: Contact
+layout: contact
+description: Contact
+---
+
+
+You can find us at our offices in Cotonou (Haie-Vive), Benin.
+
+
+| Day       | Opening Hours   |
+| --------- | --------------- |
+| Monday    | 8:30am - 5:00pm |
+| Tuesday   | 8:30am - 5:00pm |
+| Wednesday | 8:30am - 5:00pm |
+| Thursday  | 8:30am - 5:00pm |
+| Friday    | 8:30am - 5:00pm |
+| Saturday  | Closed          |
+| Saturday  | Closed          |
+
+
+
+[comment]: <> (![Contact](/images/Contact.jpg))

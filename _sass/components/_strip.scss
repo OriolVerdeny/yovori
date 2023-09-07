@@ -1,0 +1,70 @@
+.strip {
+  background: white;
+  background-repeat: no-repeat;
+}
+.strip-white {
+  background-color: white;
+}
+.strip-grey {
+  background-color: $white-offset;
+}
+
+.strip-vision {
+  
+  border-radius: 2rem !important;
+  background-color: lighten($primary, 20%);
+  padding-left: 10% !important;
+  padding-right: 10% !important;
+  padding-top: 2% !important;
+  padding-bottom: 5% !important;
+
+}
+
+
+
+.strip-diagonal {
+  transform: skewY(5deg);
+  padding-bottom: 50px;
+  margin-bottom: 65px;
+  > div {
+    transform: skewY(-5deg);
+  }
+}
+.strip-primary-gradient {
+  background-image: linear-gradient(to right, $primary, $secondary);
+}
+.strip-primary-gradient-top-bottom {
+  background-image: linear-gradient(to bottom, $primary, $secondary);
+}
+.strip-primary {
+  background-color: $primary;
+}
+.strip-secondary {
+  background-color: $secondary;
+}
+
+.strip-diagonal-right {
+  margin-top: -100px;
+  transform: skewY(-5deg);
+  padding-bottom: 100px;
+  > div {
+    transform: skewY(5deg);
+  }
+}
+
+.strip-diagonal-left {
+  margin-top: -100px;
+  transform: skewY(5deg);
+  padding-bottom: 100px;
+  > div {
+    transform: skewY(-5deg);
+  }
+}
+
+.strip-bg-contain {
+  background-size: contain;
+}
+
+.strip-bg-cover {
+  background-size: cover;
+}

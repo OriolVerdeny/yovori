@@ -1,11 +1,12 @@
+url: 'www.yovori.com'
 baseurl: ''
 permalink: pretty
 title: 'Yovori'
 
 logo:
   mobile: "images/logo/logo yovori.png"
-  mobile_height: "32px"
-  mobile_width: "32px"
+  mobile_height: "66px"
+  mobile_width: "125px"
   desktop: "images/logo/logo yovori.png"
   desktop_height: "66px"
   desktop_width: "125px"

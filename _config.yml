@@ -1,5 +1,13 @@
-url: 'www.yovori.com'
-baseurl: ''
+
+# Site Settings
+locale                   : "en-US"
+description              : "An amazing website."
+url                      : "https://www.yovori.com"
+repository               : "oriolverdeny/yovori"
+
+
+
+baseurl: "/"
 permalink: pretty
 title: 'Yovori'
 

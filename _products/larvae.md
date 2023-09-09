@@ -5,7 +5,7 @@ weight: 1
 
 intro_image: "bsf larvae.jpg"
 intro_image_absolute: false
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 ---
 
 

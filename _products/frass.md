@@ -5,7 +5,7 @@ weight: 2
 
 intro_image: "frass.jpg"
 intro_image_absolute: false
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 
 ---
 

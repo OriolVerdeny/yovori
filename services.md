@@ -7,6 +7,8 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Services for scaling your business
 
-We work to make it more profitable. More sustainable. More impact.  
+## Yovori is your strategic partner for insect mass rearing success 
+
+Our approach uses pragmatic strategies to maximize your revenues and a commitment to balance profitability and environmental responsibility. 

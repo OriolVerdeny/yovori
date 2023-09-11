@@ -9,7 +9,6 @@ intro_image_hide_on_mobile: false
 
 # Our products
 
-## Our production unit is under construction. 
+## We are working to construct a black soldier fly production unit in Benin.
 
-We are working to construct a black soldier fly production plant in Benin.
 
